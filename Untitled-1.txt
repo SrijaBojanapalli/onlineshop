@@ -1,0 +1,18 @@
+serviceList={1,2,3,4};
+var bool= function(serviceList) {
+  serviceList.forEach(function(entry) {
+	var temp = true;
+	var check = temp & entry;
+    
+  
+  }
+  var b;
+if(check == true)
+
+b= true;
+else
+b= false;
+return b;
+
+};
+
